@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System of a Down"},
+                  "SongTitle": {"S": "Prison Song"},
+                  "AlbumTitle": {"S": "Toxicity"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System of a Down"},
+                  "SongTitle": {"S": "Jet Pilot"},
+                  "AlbumTitle": {"S": "Toxicity"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "System of a Down"},
+                  "SongTitle": {"S": "Chop Suey!"},
+                  "AlbumTitle": {"S": "Toxicity"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        }
+      ]
+}
